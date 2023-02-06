@@ -10,3 +10,4 @@ useHead({
     bodyAttrs: { class: 'h-full' },
 })
 </script>
+създавам проект на vit/ + module tailwind css + stigma landing page/single design + 
